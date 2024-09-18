@@ -62,3 +62,10 @@ $ yarn run test:cov
 
 - sheetJS: https://sheetjs.com/demo/
 - Docs sheetJS: https://docs.sheetjs.com/
+
+
+## Usage
+### Client front to download export files
+EL cliente que puede utilizar para poder llamar a las apis de exportacion, se encuentra en este repositorio: 
+
+https://github.com/henryGustav/react-front-export
