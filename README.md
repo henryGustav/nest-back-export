@@ -62,6 +62,7 @@ $ yarn run test:cov
 
 - sheetJS: https://sheetjs.com/demo/
 - Docs sheetJS: https://docs.sheetjs.com/
+- Archiver (zip) : https://www.archiverjs.com/
 
 
 ## Usage
